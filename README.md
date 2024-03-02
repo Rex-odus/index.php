@@ -14,7 +14,8 @@ Features:
 
 Usage
 
-Simply upload the contents of this repository to your web server's directory, and the index page will automatically display the files and directories in that location.
+Simply upload the index.php to your web server's directory, and the index page will automatically display the files and directories in that location.
+
 License
 
 This project is licensed under the MIT License
